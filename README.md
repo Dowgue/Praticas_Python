@@ -1,1 +1,0 @@
-# Praticas_Python
